@@ -29,7 +29,7 @@ int main() {
         switch (choice) {
             case 1:
                 cout << "Enter the task: ";
-                cin.ignore(); // Clear the input buffer
+                cin.ignore(); 
                 getline(cin, task);
                 todoList.push_back(task);
                 cout << "Task added successfully!" << endl;
