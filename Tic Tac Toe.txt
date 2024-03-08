@@ -63,6 +63,3 @@ int main() {
 
     return 0;
 }
-
-
-tic tac toe in c++......run successful
